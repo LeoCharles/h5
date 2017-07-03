@@ -1,0 +1,11 @@
+/* H5ComponentBase(基本图文组件)样式 */
+
+.h5_component {
+    position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+
